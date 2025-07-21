@@ -1,3 +1,2 @@
-import TEMO1
-
-print(dir(TEMO1))
+import FILE_CLONE
+print(dir(FILE_CLONE))
