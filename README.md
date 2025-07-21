@@ -2,6 +2,6 @@ rm -rf TEMO
 
 git clone https://github.com/temo2009af/TEMO.git
 
-cd TEMO
+cd FILE_CLONE
 
-python TEMO.py
+python FILE_CLONE.py
