@@ -1,2 +1,2 @@
 import TEMO
-print(dir(TEMO))
+print(dir(TEMO1))
